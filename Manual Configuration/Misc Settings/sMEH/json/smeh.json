@@ -1,0 +1,47 @@
+[
+    {
+        "name": "0 - ARB-Boost",
+        "hex": "00"
+    },
+    {
+        "name": "1 - ARB-BCD",
+        "hex": "01"
+    },
+    {
+        "name": "2 - ARB-BRP",
+        "hex": "02"
+    },
+    {
+        "name": "3 - ARB-RTR",
+        "hex": "03"
+    },
+    {
+        "name": "4 - ARB-RTW",
+        "hex": "04"
+    },
+    {
+        "name": "5 - ARB-WTR",
+        "hex": "05"
+    },
+    {
+        "name": "6 - eZQ Override",
+        "hex": "06"
+    },
+    {
+        "name": "7 - trDVFS",
+        "hex": "07"
+    },
+    {
+        "name": "8 - E-Boost",
+        "hex": "08"
+    },
+    {
+        "name": "9 - SSC Logic",
+        "hex": "09"
+    },
+    {
+        "name": "10 - Latent",
+        "hex": "10"
+    }
+
+]

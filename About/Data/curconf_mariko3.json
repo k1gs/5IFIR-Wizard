@@ -1,0 +1,148 @@
+[
+	{
+		"name": "TABLE_BASE",
+		"base": "88,7160,8896,10632",
+        "base_increment": "4,56,56,56"
+	},
+	{
+		"name": "> pMEH",
+		"state": "filler"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+        "name": "1",
+        "offset": "0",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "2",
+        "offset": "12",
+        "length": "4",
+    },
+    {
+        "name": "3",
+        "offset": "1",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "4",
+        "offset": "13",
+        "length": "4",
+    },
+    {
+        "name": "5",
+        "offset": "2",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "6",
+        "offset": "14",
+        "length": "4",
+    },
+    {
+        "name": "7",
+        "offset": "3",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "8",
+        "offset": "15",
+        "length": "4",
+    },
+    {
+        "name": "9",
+        "offset": "4",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "10",
+        "offset": "16",
+        "length": "4",
+    },
+    {
+        "name": "11",
+        "offset": "5",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "12",
+        "offset": "17",
+        "length": "4",
+    },
+    {
+        "name": "13",
+        "offset": "6",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "14",
+        "offset": "18",
+        "length": "4",
+    },
+    {
+        "name": "15",
+        "offset": "7",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "16",
+        "offset": "19",
+        "length": "4",
+    },
+    {
+        "name": "17",
+        "offset": "8",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "18",
+        "offset": "20",
+        "length": "4",
+    },
+    {
+        "name": "19",
+        "offset": "9",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "20",
+        "offset": "21",
+        "length": "4",
+    },
+    {
+        "name": "21",
+        "offset": "10",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "22",
+        "offset": "22",
+        "length": "4",
+    },
+    {
+        "name": "23",
+        "offset": "11",
+        "length": "4",,
+        "state": "no_skip"
+    },
+    {
+        "name": "24",
+        "offset": "23",
+        "length": "4",
+    }
+	
+]

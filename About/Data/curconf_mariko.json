@@ -1,0 +1,166 @@
+[
+	{
+		"name": "> Kip Version",
+		"offset": "4",
+		"length": "3"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "> CPU Settings",
+		"state": "filler"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "CPU Minimum Voltage",
+		"offset": "48",
+		"length": "3",
+		"extent": " mV"
+	},
+	{
+		"name": "CPU Maximum Voltage",
+		"offset": "28",
+		"length": "4",
+		"extent": " mV"
+	},
+	{
+		"name": "dCPUv",
+		"offset": "12348",
+		"length": "4",
+		"extent": " mV"
+	},
+	{
+		"name": "SpeedShift",
+		"offset": "12336",
+		"length": "4"
+	},
+	{
+		"name": "CPU Boost Clock",
+		"offset": "12",
+		"length": "4",
+		"extent": " MHz"
+	},
+	{
+		"name": "Low MHz Undervolt Mode",
+		"offset": "40",
+		"length": "1"
+	},
+	{
+		"name": "High MHz Undervolt Mode",
+		"offset": "12340",
+		"length": "1"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "> RAM Settings",
+		"state": "filler"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "RAM MHz",
+		"offset": "32",
+		"length": "4",
+		"extent": " MHz"
+	},
+	{
+		"name": "RAM Vddq",
+		"offset": "36",
+		"length": "3",
+		"extent": " mV"
+	},
+	{
+		"name": "RAM Vdd2",
+		"offset": "16",
+		"length": "4",
+		"extent": " mV"
+	},
+	{
+		"name": "EMCBalance",
+		"offset": "12352",
+		"length": "4"
+	},
+	{
+		"name": "EMC DVB Mode",
+		"offset": "56",
+		"length": "4",
+		"extent": " mV"
+	},
+	{
+		"name": "Core Timings",
+		"offset": "60,64,68,72,76,80,84,12356",
+		"length": "1"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "> GPU Settings",
+		"state": "filler"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "GPU Eco Mode",
+		"offset": "44",
+		"length": "1"
+	},
+	{
+		"name": "GPUv",
+		"offset": "52",
+		"length": "3",
+		"extent": " mV"
+	},
+	{
+		"name": "GPU Over Mode",
+		"offset": "12344",
+		"length": "4",
+		"extent": " mV"
+	},
+	{
+		"name": "",
+		"state": "filler"
+	},
+	{
+		"name": "> Misc Parameters",
+		"state": "filler"
+	},
+	{
+		"name": "eBAS",
+		"offset": "12360",
+		"length": "4"
+	},
+	{
+		"name": "pMEH",
+		"offset": "12367,12368,12369,12370,12371,12372,12373,12374,12375,12376,12376",
+		"length": "1"
+	},
+	{
+		"name": "pMEH2",
+		"offset": "12377,12378,12379,12380,1238112382,12383,12384,12385,12385,12386,12387,12388,12389",
+		"length": "1"
+	},
+	{
+		"name": "sMEH",
+		"offset": "12391,12392,12393,12394,12395,12396,12397,12398,12399",
+		"length": "1"
+	},
+	{
+		"name": "sMEH2",
+		"offset": "12400,12401,12402,12403,12404,12405,12406,12407,12408,12409,12410,12411,12412,12413",
+		"length": "1"
+	}
+]

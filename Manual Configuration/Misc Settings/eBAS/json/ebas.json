@@ -1,0 +1,18 @@
+[
+    {
+        "name": "0 ",
+        "hex": "00"
+    },
+    {
+        "name": "1 - ECO ST1",
+        "hex": "01"
+    },
+    {
+        "name": "2 - SYS LOH",
+        "hex": "02"
+    },
+    {
+        "name": "3 - Reserved",
+        "hex": "03"
+    }
+]

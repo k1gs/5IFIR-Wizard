@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Default - 0",
+        "hex": "00"
+    },
+    {
+        "name": "Stage 1 - 25",
+        "hex": "19"
+    },
+    {
+        "name": "Stage 2 - 50",
+        "hex": "32"
+    },
+    {
+        "name": "Stage 3 - 75",
+        "hex": "4B"
+    },
+    {
+        "name": "Stage 4 - 100",
+        "hex": "64"
+    },
+    {
+        "name": "Stage 5 - 125",
+        "hex": "7D"
+    },
+    {
+        "name": "Stage 6 - 150",
+        "hex": "96"
+    }
+]
